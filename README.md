@@ -122,6 +122,9 @@ Through this project, I practiced:
 
 ---
 
+Screenshot/View
+Demo Link: https://github.com/shivamx0309/Money-Transfer-Dashboard/blob/main/User%20Money%20Analysis.png
+
 👨‍💻 Author
 
 **Shivam Singh**
